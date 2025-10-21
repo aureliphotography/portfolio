@@ -1,7 +1,4 @@
 ---
-description: Aureli Photography
-#lastmod: 2025-10-19
-title: Aureli Photography Gallery
 resources:
   - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
     params:
@@ -16,4 +13,9 @@ menus:
 cascade:
  build:
    publishResources: false # do not include full images. Also disable download
+
+#lastmod: 2025-10-19
+title: At Aureli Photography,
+description: we believe that every moment tells a story, and our mission is to capture those memories with authenticity and care. Whether it's through portraits, family gatherings, or life's most significant milestones, we are dedicated to preserving your memories.
+
 ---
