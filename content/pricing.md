@@ -4,7 +4,6 @@ rss_ignore: true
 layout: prose
 menu:
   main:
+    identifier: pricing
     weight: 90
 ---
-
-This is a list of my prices
