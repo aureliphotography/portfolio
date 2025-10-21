@@ -1,5 +1,5 @@
 ---
-title: Family gallery
+title: Family
 params:
   featured: true
   private: true
