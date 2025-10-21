@@ -5,7 +5,7 @@ params:
   featured: true
   private: true
 resources:
-  - src: DSC_5000G.jpg
+  - src: IMG_2512B.jpg
     params:
       cover: true
 ---
