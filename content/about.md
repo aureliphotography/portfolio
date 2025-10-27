@@ -10,4 +10,3 @@ description: Huascar - The Photographer the talent behind the photography busine
 ---
 
 ![me_headshot](/images/DSC_2457G.jpg "headshot")
-

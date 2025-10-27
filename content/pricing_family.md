@@ -1,11 +1,11 @@
 ---
 title: Family
+weight: 10
 rss_ignore: true
 layout: prose
 menu:
   main:
     parent: pricing
-    weight: 90
 ---
 
 Getting ready for your family photo session? Let's make it amazing! Choose comfortable outfits in coordinating colors, avoiding busy patterns. Schedule around your children's best times of day or before sunset for the most flattering light. Plan to arrive fresh and relaxed — tired or hungry family members rarely photograph well!
