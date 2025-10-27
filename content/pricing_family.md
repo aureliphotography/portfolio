@@ -20,7 +20,7 @@ Don't worry about getting everyone to look perfect — natural interactions ofte
 
 ---
 
-### 50 minutes session - $150
+## 50 minutes session - $150
 
 This package includes five beautifully retouched images of your choice, allowing you to select your favorite shots for editing. All remaining images from the shoot will be provided in their original, unedited form, and every picture will be delivered digitally for your convenience.
   - Includes 5 beautifully edited photos  
