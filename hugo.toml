@@ -3,3 +3,10 @@ languageCode = 'en-us'
 title = 'Aureli Photography'
 
 theme = "gallery"
+
+# needed to render pricing_box.html
+[markup]
+  [markup.goldmark.renderer]
+    # Set to true to allow raw HTML blocks (like the <div> in your shortcode)
+    # to be rendered. This is required for your pricing_box to work correctly.
+    unsafe = true
