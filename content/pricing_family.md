@@ -5,7 +5,7 @@ layout: prose
 menu:
   main:
     parent: pricing
-    weight: 10
+    weight: 90
 ---
 
 Getting ready for your family photo session? Let's make it amazing! Choose comfortable outfits in coordinating colors, avoiding busy patterns. Schedule around your children's best times of day or before sunset for the most flattering light. Plan to arrive fresh and relaxed — tired or hungry family members rarely photograph well!
@@ -17,7 +17,7 @@ Don't worry about getting everyone to look perfect — natural interactions ofte
 {{< pricing_box
     title="50 minutes session - $150"
     image="/images/family-pricing-cover.jpg"
-    description="This package includes five beautifully retouched images of your choice, allowing you to select your favorite shots for editing. All remaining images from the shoot will be provided in their original, unedited form, and every picture will be delivered digitally for your convenience."
+    description="This package includes beautifully retouched images of your choice. All remaining images from the shoot will be provided in their original, unedited form, and every picture will be delivered digitally for your convenience."
 >}}
 - Includes 5 beautifully edited photos
 - All remaining pictures unretouched
