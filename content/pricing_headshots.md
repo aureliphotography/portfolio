@@ -33,5 +33,5 @@ Your professional headshot is often your first impression - let's make it count!
 * Three outfit changes
 * All remaining pictures unretouched
 * All pictures in digital format
-* Additional transportation fee not included if outside Sunnyvale or Mountain View
-{{< /pricing_box >}}
+* Additional [transportation fee](/pricing_transportation) not included if outside Sunnyvale or Mountain View
+* {{< /pricing_box >}}

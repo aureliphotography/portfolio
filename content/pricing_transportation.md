@@ -8,10 +8,8 @@ menu:
     parent: pricing
 ---
 
-If the photography service of your choice requires on location photography outside the Mountain View/Sunnyvale area an additional transportation fee is required.
-The rate is calculated based on 15 minutes increments and based on the Google maps commute time for both ways.
+For photo shoots requiring travel outside of the Mountain View/Sunnyvale area, an additional transportation fee will apply.
 
-
-
+This fee is calculated based on the round-trip drive time from our office to the location, as estimated by Google Maps for the specific date and time of the shoot. The rate for the transportation time is equivalent to your standard photography service hourly rate, billed in 15-minute increments.
 
 

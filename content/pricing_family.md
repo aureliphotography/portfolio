@@ -19,9 +19,9 @@ Don't worry about getting everyone to look perfect — natural interactions ofte
     image="/images/family-pricing-cover.jpg"
     description="This package includes beautifully retouched images of your choice. All remaining images from the shoot will be provided in their original, unedited form, and every picture will be delivered digitally for your convenience."
 >}}
-- Includes 5 beautifully edited photos
-- All remaining pictures unretouched
-- All pictures in digital format
-- At a park in Sunnyvale or Mountain View
-- Additional transportation fee not included if outside Sunnyvale or Mountain View
+* Includes 5 beautifully edited photos
+* All remaining pictures unretouched
+* All pictures in digital format
+* At a park in Sunnyvale or Mountain View
+* Additional [transportation fee](/pricing_transportation) not included if outside Sunnyvale or Mountain View
 {{< /pricing_box >}}

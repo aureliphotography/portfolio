@@ -19,5 +19,6 @@ Getting ready for your newborn photo session? Let's make it perfect! Choose soft
 >}}
 * Includes 8 beautifully edited images
 * All remaining pictures unretouched
-* All pictures in digital forma
+* All pictures in digital format
+* Additional [transportation fee](/pricing_transportation) not included if outside Sunnyvale or Mountain View
 {{< /pricing_box >}}
