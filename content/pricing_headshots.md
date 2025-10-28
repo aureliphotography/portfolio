@@ -14,24 +14,26 @@ Your professional headshot is often your first impression - let's make it count!
 {{< pricing_box
     title="30 minutes - $90"
     image="/images/headshots-pricing-30.jpg"
-    description="This package includes three beautifully retouched images of your choice, allowing you to select your favorite shots for editing. All remaining images from the shoot will be provided in their original, unedited form, and every picture will be delivered digitally for your convenience."
+    description="This is the essential package for a great headshot. It includes three beautifully retouched images of your choice. All remaining, unedited images from the shoot will be provided digitally for your convenience."
 >}}
-* Includes 3 beautifully edited images
-* One outfit
+* Includes 3 edited images of your choice
+* 1 outfit
 * All remaining pictures unretouched
 * All pictures in digital format
 {{< /pricing_box >}}
 
+<br> 
 <br>
-
+<br>
+<br> 
 {{< pricing_box
     title="1 hour - $180"
     image="/images/headshots-pricing-60.jpg"
-    description="The 1-hour package offers a comprehensive photography experience, including eight beautifully retouched images of your choice, so you can select your favorite moments for professional editing. With up to three outfit changes, you’ll have the flexibility to showcase different styles and create a diverse gallery of images. All remaining photos from the session will be provided in their original, unedited form, and the entire collection will be delivered digitally for easy access and sharing."
+    description="The 1-hour package offers a comprehensive photography experience. With up to three outfit changes, you’ll have the flexibility to showcase different styles and create a diverse gallery of images."
 >}}
-* Includes 8 beautifully edited images
-* Three outfit changes
+* Includes 8 edited images of your choice
+* 3 outfit changes
 * All remaining pictures unretouched
 * All pictures in digital format
 * Additional [transportation fee](/pricing_transportation) not included if outside Sunnyvale or Mountain View
-* {{< /pricing_box >}}
+{{< /pricing_box >}}
