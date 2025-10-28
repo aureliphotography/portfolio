@@ -1,6 +1,7 @@
-baseURL = 'https://example.org/'
+
+baseURL = 'http://98.45.192.245:8123/html_guides/aureli_photography/'
+
 languageCode = 'en-us'
 title = 'Aureli Photography'
 
 theme = "gallery"
-
