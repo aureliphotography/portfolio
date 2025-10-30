@@ -14,7 +14,7 @@ Your wedding day is a once-in-a-lifetime celebration, and photography preserves 
 
 {{< pricing_box
     title="Per hour - $180"
-    image="/images/wedding-pricing-60.jpg"
+    image="images/wedding-pricing-60.jpg"
     description="Our wedding photography package is thoughtfully designed to capture every precious moment of your special day. Beyond the expertly edited images, you'll also have access to the complete, high-resolution digital gallery of unedited photographs, ensuring you don't miss a single memory. Let us transform your wedding day into a timeless visual narrative."
 >}}
 * Includes 8 beautifully edited images for each hour

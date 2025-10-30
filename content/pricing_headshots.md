@@ -13,7 +13,7 @@ Your professional headshot is often your first impression - let's make it count!
 # Pricing
 {{< pricing_box
     title="30 minutes - $90"
-    image="/images/headshots-pricing-30.jpg"
+    image="images/headshots-pricing-30.jpg"
     description="This is the essential package for a great headshot. It includes three beautifully retouched images of your choice. All remaining, unedited images from the shoot will be provided digitally for your convenience."
 >}}
 * Includes 3 edited images of your choice
@@ -22,10 +22,9 @@ Your professional headshot is often your first impression - let's make it count!
 * All pictures in digital format
 {{< /pricing_box >}}
 
-
 {{< pricing_box
     title="1 hour - $180"
-    image="/images/headshots-pricing-60.jpg"
+    image="images/headshots-pricing-60.jpg"
     description="The 1-hour package offers a comprehensive photography experience. With up to three outfit changes, you’ll have the flexibility to showcase different styles and create a diverse gallery of images."
 >}}
 * Includes 8 edited images of your choice

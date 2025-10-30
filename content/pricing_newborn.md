@@ -14,7 +14,7 @@ Getting ready for your newborn photo session? Let's make it perfect! Choose soft
 
 {{< pricing_box
     title="1 hour - $180"
-    image="/images/newborn-pricing-60.jpg"
+    image="images/newborn-pricing-60.jpg"
     description="The 1-hour package offers a comprehensive newborn photography experience, including eight beautifully retouched images of your choice, allowing you to select your favorite moments for professional editing. All remaining photos from the session will be provided in their original, unedited form, and the entire collection will be delivered digitally for easy access."
 >}}
 * Includes 8 beautifully edited images
