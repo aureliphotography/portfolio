@@ -22,6 +22,9 @@ Your professional headshot is often your first impression - let's make it count!
 * All pictures in digital format
 {{< /pricing_box >}}
 
+
+
+
 {{< pricing_box
     title="1 hour - $180"
     image="images/headshots-pricing-60.jpg"
