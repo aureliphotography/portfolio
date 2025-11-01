@@ -12,7 +12,6 @@ Getting ready for your family photo session? Let's make it amazing! Choose comfo
 
 Don't worry about getting everyone to look perfect — natural interactions often make the most treasured photos. Bring along any meaningful props or pets that help tell your family's story. Let's create beautiful memories together!
 
-# Pricing
 
 {{< pricing_box
     title="50 minutes session - $150"
