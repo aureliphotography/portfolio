@@ -9,7 +9,7 @@ params:
   featured: true
   private: true
 resources:
-  - src: DSC_6499G.jpg
+  - src: IMG_2404B.jpg
     params:
       cover: true
 ---
