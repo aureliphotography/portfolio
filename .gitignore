@@ -4,5 +4,4 @@
 /resources
 .DS_Store
 **/.DS_Store
-content/**/*.jpg
 .idea
