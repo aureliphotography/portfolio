@@ -1,0 +1,30 @@
+{{/* /themes/gallery/layouts/shortcodes/pricing_box.html */}}
+
+{{ $title := .Get "title" }}
+{{ $image := .Get "image" }}
+{{ $description := .Get "description" }}
+
+<div class="pricing-box-wrapper">
+  {{ with $title }}
+    <h2>{{ . | safeHTML }}</h2>
+  {{ end }}
+
+  <div class="pricing-box">
+    {{ with $image }}
+      <div class="pricing-box-image">
+        <img src="{{ . | relURL }}" alt="{{ $title | default "Pricing box image" }}">
+      </div>
+    {{ end }}
+
+    <div class="pricing-box-content">
+      {{ with $description }}
+        <p>{{ . | safeHTML }}</p>
+      {{ end }}
+
+      {{ .Inner | markdownify }}
+    </div>
+  </div>
+</div>
+<br>
+<br>
+<br>

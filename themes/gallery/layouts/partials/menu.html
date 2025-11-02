@@ -1,0 +1,24 @@
+{{ with site.Menus.main }}
+  <menu id="menu">
+    {{ range . }}
+      {{/* Add a class to the list item if it has children */}}
+      <li itemscope itemtype="http://www.schema.org/SiteNavigationElement" {{ if .HasChildren }}class="has-dropdown"{{ end }}>
+        <a aria-current="{{ or (page.IsMenuCurrent .Menu .) (page.HasMenuCurrent .Menu .) }}" href="{{ if .HasChildren }}javascript:void(0);{{ else }}{{ .URL }}{{ end }}" itemprop="url">
+          <span itemprop="name">{{ .Name }}</span>
+        </a>
+        {{/* If the item has children, render a sub-menu */}}
+        {{ if .HasChildren }}
+          <ul class="sub-menu">
+            {{ range .Children }}
+              <li itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+                <a href="{{ .URL }}" itemprop="url">
+                  <span itemprop="name">{{ .Name }}</span>
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </li>
+    {{ end }}
+  </menu>
+{{ end }}

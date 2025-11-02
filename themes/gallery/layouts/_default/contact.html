@@ -1,0 +1,54 @@
+{{ define "main" }}
+  {{ partial "title.html" . }}
+  <section class="prose">
+    {{ .Content }}
+    
+    <div class="contact-container">
+      <button id="reveal-email" class="email-button">
+        Click to Reveal Email Address
+      </button>
+      
+      <div id="email-display" class="email-display" style="display: none;">
+        <a href="#" id="email-link" class="email-link"></a>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    (function() {
+      // Obfuscated email parts - change these to your actual email
+      const u = 'aureli.photographer';  // part before @
+      const d1 = 'gma';  // domain name
+      const d2 = 'il';  // domain name
+      const tld = 'com';         // top-level domain
+      
+      // Build the email address
+      const email = u + '@' + d1 + d2 + '.' + tld;
+      
+      const button = document.getElementById('reveal-email');
+      const display = document.getElementById('email-display');
+      const link = document.getElementById('email-link');
+      
+      button.addEventListener('click', function() {
+        // Set the email
+        link.href = 'mailto:' + email;
+        link.textContent = email;
+        
+        // Show email, hide button
+        button.style.display = 'none';
+        display.style.display = 'block';
+        
+        // Optional: copy to clipboard
+        if (navigator.clipboard) {
+          navigator.clipboard.writeText(email).then(function() {
+            const originalText = link.textContent;
+            link.textContent = email + ' (copied!)';
+            setTimeout(function() {
+              link.textContent = originalText;
+            }, 2000);
+          });
+        }
+      });
+    })();
+  </script>
+{{ end }}
