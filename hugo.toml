@@ -1,5 +1,4 @@
 
-#baseURL = 'http://98.45.192.245:8123/html_guides/aureli_photography/'
 baseURL = 'https://aureliphotography.github.io/portfolio/'
 
 languageCode = 'en-us'
