@@ -21,4 +21,6 @@ Your wedding day is a once-in-a-lifetime celebration, and photography preserves 
 * All pictures in digital format
 * 1 photographer
 * Additional [transportation fee]({{< relref "pricing_transportation.md" >}}) not included if outside Sunnyvale or Mountain View
+
+[Book now]({{< relref "contact.md" >}})
 {{< /pricing_box >}}

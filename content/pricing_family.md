@@ -23,4 +23,6 @@ Don't worry about getting everyone to look perfect — natural interactions ofte
 * All pictures in digital format
 * At a park in Sunnyvale or Mountain View
 * Additional [transportation fee]({{< relref "pricing_transportation.md" >}}) not included if outside Sunnyvale or Mountain View
+
+[Book now]({{< relref "contact.md" >}})
 {{< /pricing_box >}}

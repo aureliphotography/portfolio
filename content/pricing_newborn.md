@@ -20,4 +20,6 @@ Getting ready for your newborn photo session? Let's make it perfect! Choose soft
 * All remaining pictures unretouched
 * All pictures in digital format
 * Additional [transportation fee]({{< relref "pricing_transportation.md" >}}) not included if outside Sunnyvale or Mountain View
+
+[Book now]({{< relref "contact.md" >}})
 {{< /pricing_box >}}

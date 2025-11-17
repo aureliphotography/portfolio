@@ -20,10 +20,9 @@ Your professional headshot is often your first impression - let's make it count!
 * 1 outfit
 * All remaining pictures unretouched
 * All pictures in digital format
+
+[Book now]({{< relref "contact.md" >}})
 {{< /pricing_box >}}
-
-
-
 
 {{< pricing_box
     title="1 hour - $180"
@@ -35,4 +34,6 @@ Your professional headshot is often your first impression - let's make it count!
 * All remaining pictures unretouched
 * All pictures in digital format
 * Additional [transportation fee]({{< relref "pricing_transportation.md" >}}) not included if outside Sunnyvale or Mountain View
+
+[Book now]({{< relref "contact.md" >}})
 {{< /pricing_box >}}
