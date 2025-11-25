@@ -3,7 +3,6 @@ baseURL = 'https://aureliphotography.github.io/portfolio/'
 
 languageCode = 'en-us'
 title = 'Aureli Photography'
-
 theme = "gallery"
 
 [services]
