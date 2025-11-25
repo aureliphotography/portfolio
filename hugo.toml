@@ -6,5 +6,6 @@ title = 'Aureli Photography'
 
 theme = "gallery"
 
-[services.googleAnalytics]
-ID = "G-QCH1LN6FZ1"
+[services]
+  [services.googleAnalytics]
+    ID = "G-QCH1LN6FZ1"
