@@ -16,7 +16,7 @@ Don't worry about getting everyone to look perfect — natural interactions ofte
 {{< pricing_box
     title="50 minutes session - $150"
     image="images/family-pricing-cover.jpg"
-    description="This package includes beautifully retouched images of your choice. All remaining images from the shoot will be provided in their original, unedited form, and every picture will be delivered digitally for your convenience."
+    description="This package includes five beautifully retouched images of your choice. All remaining images from the shoot will be provided in their original, unedited form, and every picture will be delivered digitally for your convenience."
 >}}
 * Includes 5 beautifully edited photos
 * All remaining pictures unretouched
