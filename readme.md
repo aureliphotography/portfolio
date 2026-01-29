@@ -1,3 +1,7 @@
+# Render site locally
+
+rm -rf public;  hugo server --disableFastRender       
+
 # Google Analytics
 
 ### URL
