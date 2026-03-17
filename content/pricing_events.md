@@ -12,7 +12,7 @@ Your event is filled with moments worth remembering, and our photography focuses
 
 {{< pricing_box
     title="Per hour - $180"
-    image="images/wedding-pricing-60.jpg"
+    image="images/event-pricing-60.jpg"
     description="Our event photography package includes professionally edited images along with a full high-resolution digital gallery of the original photographs. This way, every guest, reaction, and memorable detail is preserved—creating a complete visual story you can revisit long after the event ends."
 >}}
 * Includes 8 beautifully edited images for each hour
