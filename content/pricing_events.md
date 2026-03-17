@@ -1,5 +1,5 @@
 ---
-title: Wedding
+title: Events
 weight: 40
 rss_ignore: true
 layout: prose
