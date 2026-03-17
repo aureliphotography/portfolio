@@ -10,6 +10,6 @@ params:
   private: true
 resources:
   - src: DSC_6668G.jpg
-    params:q
+    params:
       cover: true
 ---
