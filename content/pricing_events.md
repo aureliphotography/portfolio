@@ -1,6 +1,6 @@
 ---
 title: Events
-weight: 40
+weight: 50
 rss_ignore: true
 layout: prose
 menu:
