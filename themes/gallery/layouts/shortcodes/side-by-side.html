@@ -1,0 +1,17 @@
+{{/* /themes/gallery/layouts/shortcodes/side-by-side.html */}}
+
+<div class="image-comparison-stack" style="display: flex; flex-direction: column; gap: 0; width: 100%; max-width: 800px; margin: 0 auto; line-height: 0;">
+
+  <img src="{{ .Get "before" | relURL }}" alt="Before"
+       style="width: 100%; height: auto; display: block; margin: 0 !important; padding: 0 !important; border-bottom: 1px solid rgba(0,0,0,0.15);">
+
+  <img src="{{ .Get "after" | relURL }}" alt="After"
+       style="width: 100%; height: auto; display: block; margin: 0 !important; padding: 0 !important;">
+
+</div>
+
+<style>
+  /* This prevents Hugo/Goldmark from adding extra spacing around the shortcode */
+  .image-comparison-stack + p { margin-top: 0; }
+  p + .image-comparison-stack { margin-bottom: 0; }
+</style>

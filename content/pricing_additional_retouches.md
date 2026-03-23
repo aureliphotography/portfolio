@@ -11,12 +11,29 @@ menu:
 Your session comes with the complete collection of high-resolution originals, plus a set number of professionally retouched images of your choice.
 
 ### 📸 Retouching Rates
-If you would like to add additional hand-edited photos to your final collection, the following rates apply:
+If you would like to add professionally hand-edited photos to your final collection, you can choose from the following options:
 
-| Service | Price |
+### Standard Edit
+Best for events, candids, and wide-angle shots. These edits focus on perfecting color, lighting, and composition.
+
+| Quantity | Price Per Image |
 | :--- | :--- |
-| **Individual Retouched Photo** | $20 per image |
-| **Bundle (5+ Photos)** | $15 per image |
+| Single Image | **$10** |
+| 5+ Images (25% off) | **$7.50** |
+
+Example:
+{{< side-by-side before="images/IMG_2404StandardBefore.jpg" after="images/IMG_2404StandardAfter.jpg" >}}
+
+### Portrait Edit
+Required for headshots, newborns, and close-ups. This service includes dedicated, high-end facial retouching and detailed skin work.
+
+| Quantity | Price Per Image |
+| :--- | :--- |
+| Single Image | **$20** |
+| 5+ Images (25% off) | **$15** |
+
+Example:
+![Portrait Before After](images/PortraitBeforeAfter.jpg)
 
 ---
 
