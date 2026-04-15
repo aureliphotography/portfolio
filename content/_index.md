@@ -5,7 +5,7 @@ resources:
       cover: true # cover of the home page is used for OpenGraph cards, etc.
 menus:
   main:
-    name: Serviced offered
+    name: Services Offered
     weight: -1
 
 
