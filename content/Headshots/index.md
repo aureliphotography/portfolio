@@ -8,6 +8,8 @@ weight: 40
 params:
   featured: true
   private: true
+  sort_by: Exif.Date
+  sort_order: desc
 resources:
   - src: DSC_3141G.jpg
     params:
