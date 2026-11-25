@@ -7,6 +7,9 @@ rm -rf public;  hugo server --disableFastRender
 ### URL
 https://analytics.google.com/analytics/web/provision/?authuser=3#/provision/create
 
+## Adding images
+
+Just drop pictures in Github directly in full resolution, the image will be resized during deployment. 
 
 # Repository Setup with Sparse Checkout
 
