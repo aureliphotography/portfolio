@@ -8,6 +8,8 @@ weight: 10
 params:
   featured: true
   private: true
+  sort_by: Exif.Date
+  sort_order: desc
 resources:
   - src: DSC_6668G.jpg
     params:

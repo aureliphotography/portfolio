@@ -8,6 +8,8 @@ weight: 60
 params:
   featured: true
   private: true
+  sort_by: Exif.Date
+  sort_order: desc
 resources:
   - src: CIMG_2512B.jpg
     params:

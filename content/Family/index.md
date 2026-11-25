@@ -8,6 +8,8 @@ weight: 80
 params:
   featured: true
   private: true
+  sort_by: Exif.Date
+  sort_order: desc
 resources:
   - src: IMG_2404B.jpg
     params:

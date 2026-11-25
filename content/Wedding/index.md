@@ -8,6 +8,8 @@ weight: 20
 params:
   featured: true
   private: true
+  sort_by: Exif.Date
+  sort_order: desc
 resources:
   - src: DSC_3974G.jpg
     params:
